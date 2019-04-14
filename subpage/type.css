@@ -1,0 +1,58 @@
+@charset "utf-8";/* 全てに適用するCSS */
+body{
+  background-color: #ffedbd;
+}
+
+h1{
+
+}
+
+.head{
+width: 7%;
+margin: 0 auto;
+text-align: center;
+}
+
+.head img{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+h1{
+  font-size: 150%;
+}
+h2{
+  font-size: 130%;
+}
+
+.bun{
+  width: 50%;
+  color: #5b5b5b;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 80%;
+
+}
+
+.top{
+  width: 5%;
+  margin: 0 auto;
+  float: right;
+  margin-right: 5%;
+
+}
+
+.top img{
+  width: 100%;
+}
+
+.photo{
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+
+}
+
+.photo img{
+  width: 100%;
+}

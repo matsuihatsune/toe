@@ -1,0 +1,46 @@
+@charset "utf-8";/* 全てに適用するCSS */
+body{
+  background-color: #ffedbd;
+}
+.moto{
+  width: 90%;
+}
+.title{
+  width:30%;
+  margin: 0 auto;
+  text-align: center;
+}
+.title img{
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+.honbu{
+  margin: 0 auto;
+  width: 90%;
+}
+.menue{
+  width: 15%;
+  margin: 0 auto;
+  margin-left: 5%;
+}
+.menue img{
+
+  margin: 0 auto;
+  margin-left: 5%;
+  margin-top: 50px;
+  float: left;
+  height: 40px;
+}
+.photo{
+  width: 60%;
+  margin: 0 auto;
+  margin-right: 5%
+  float:right;
+}
+.photo img{
+  width: 100%;
+  margin: 0 auto;
+  margin-top: 50px;
+  margin-left: 15%;
+}
